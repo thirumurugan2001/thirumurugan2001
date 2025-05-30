@@ -1,18 +1,187 @@
-# 💫 About Me:
-As a passionate and driven Software Engineer, I specialize in designing and developing next-generation AI-powered applications and delivering innovative software solutions. With expertise in Python, JavaScript, and frameworks like Flask, Sanic, Django, and FastAPI, I thrive at creating robust APIs and integrating complex systems.<br><br>I have hands-on experience with Azure OpenAI Service and AWS Bedrock, enabling me to craft advanced AI-driven solutions tailored to diverse business needs. My strong database knowledge in MySQL and PostgreSQL supports my ability to design efficient data structures and optimize application performance.<br><br>Proficient in frontend and backend technologies, I am skilled in leveraging tools such as React, NumPy, Pandas, and Playwright, ensuring seamless user experiences and efficient workflows. Additionally, I bring a solid foundation in CI/CD pipelines, automation testing, web scraping, and RAG-based solutions to streamline software development and deployment.<br><br>Beyond coding, I’m experienced with modern tools like Postman, pgAdmin, Git, and Vector Databases, which enhance my productivity and collaboration with cross-functional teams. My exposure to cloud-based ecosystems, including Azure and AWS, has further sharpened my expertise in developing scalable, secure, and reliable solutions<br><br>Driven by curiosity and a problem-solving mindset, I constantly seek opportunities to push the boundaries of technology and contribute to projects that make a tangible impact.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Thirumurugan+%F0%9F%91%8B;Software+Engineer+%F0%9F%92%BB;AI+Solutions+Developer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Thirumurugan Subramaniyan
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thirumurugan-subramaniyan-a62351212/) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thirumurugan2001&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thirumurugan2001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thirumurugan2001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=thirumurugan2001&label=Profile%20views&color=0e75b6&style=flat" alt="thirumurugan2001" />
+  <img src="https://img.shields.io/github/followers/thirumurugan2001?label=Followers&style=social" alt="GitHub Badge">
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thirumurugan2001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 About Me
+
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Thirumurugan Subramaniyan"
+        self.location = "Chennai, India"
+        self.education = "B.E Computer Science & Engineering"
+        self.university = "Karpagam Academy of Higher Education, Coimbatore"
+        self.passion = "Leveraging technology to solve real-world problems"
+        self.specialization = "AI-powered applications & Full-stack development"
+        
+    def current_focus(self):
+        return [
+            "🤖 Designing next-generation AI applications",
+            "☁️ Cloud-based solutions (Azure OpenAI, AWS Bedrock)",
+            "🔗 Building robust APIs and system integrations",
+            "📊 RAG-based solutions and automation testing"
+        ]
+    
+    def leadership_experience(self):
+        return "Senior NCC Cadet - Leadership, Time Management, Teamwork"
+    
+    def hobbies(self):
+        return ["🌱 Gardening", "📄 Paper Craft", "🍳 Cooking"]
+```
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🚀 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ Cloud & AI Services
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🔧 Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</div>
+
+---
+
+## 🏢 Professional Journey
+
+<div align="center">
+
+| 🏢 Company | 👨‍💻 Role | 📅 Duration | 🛠️ Key Technologies |
+|------------|-----------|-------------|---------------------|
+| **VPearl Solutions** | Application Developer | Jan 2025 - Present | Python, JavaScript, PostgreSQL, AI/OCR |
+| **Avasoft** | Software Engineer | Dec 2023 - Dec 2024 | Python, Azure OpenAI, AWS Bedrock, React |
+| **ClaySys Technologies** | RPA Developer | Jul 2023 - Oct 2023 | UiPath, RPA Genie |
+
+</div>
+
+---
+
+## 🎯 Expertise Highlights
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🤖 AI & Machine Learning</h3>
+        <ul align="left">
+          <li>Azure OpenAI Service Integration</li>
+          <li>AWS Bedrock Implementation</li>
+          <li>RAG-based Solutions</li>
+          <li>LangChain Development</li>
+          <li>OCR & Document Processing</li>
+        </ul>
+      </td>
+      <td align="center" width="50%">
+        <h3>🔧 Development & DevOps</h3>
+        <ul align="left">
+          <li>Full-stack Web Development</li>
+          <li>RESTful API Design</li>
+          <li>CI/CD Pipeline Implementation</li>
+          <li>Automation Testing</li>
+          <li>Web Scraping Solutions</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thirumurugan2001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirumurugan2001&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thirumurugan2001&theme=tokyonight" alt="thirumurugan2001" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thirumurugan2001&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/thirumurugan2001">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thirumurugan2001&repo=your-repo-name&theme=tokyonight" />
+  </a>
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thirumurugan-subramaniyan-a62351212/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thirumurugan2001)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/thirusubramaniy1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thirumurugan_subramaniyan/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100025604958590)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
+
+<div align="center">
+  <h3>💭 "Transforming innovative ideas into impactful AI-powered solutions" 💭</h3>
+  <p><em>Always excited to collaborate on innovative projects and cutting-edge technologies!</em></p>
+</div>
