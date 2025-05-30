@@ -1,64 +1,46 @@
-# 👋 Hey there! I'm Thirumurugan Subramaniyan
+# 👋 Hello, I'm Thirumurugan Subramaniyan
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+AI+Enthusiast;Full+Stack+Developer;Cloud+Solutions+Architect;Building+Next-Gen+AI+Applications)](https://git.io/typing-svg)
-  
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
-  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer+%7C+AI+Enthusiast;Full-Stack+Developer;Cloud+Solutions+Architect;Innovation+Through+Technology)
+
 </div>
 
 ---
 
 ## 🚀 About Me
 
-```python
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Thirumurugan Subramaniyan"
-        self.location = "Chennai, Tamil Nadu, India"
-        self.education = "B.Tech CSE - Karpagam Academy of Higher Education"
-        self.role = "Software Engineer"
-        self.passion = "Crafting AI-powered applications that push technological boundaries"
-        
-    def get_expertise(self):
-        return {
-            "languages": ["Python", "JavaScript", "C", "Java", "HTML5", "CSS"],
-            "frameworks": ["Flask", "Sanic", "Django", "FastAPI", "React"],
-            "databases": ["PostgreSQL", "MySQL", "MongoDB"],
-            "cloud_platforms": ["Azure OpenAI Service", "AWS Bedrock"],
-            "ai_technologies": ["RAG", "Vector Databases", "LangChain", "OpenAI GPT"],
-            "specialties": ["Full-Stack Development", "AI Integration", "API Design"]
-        }
-        
-    def current_focus(self):
-        return "Building innovative AI-driven solutions and scalable applications"
-```
-
----
-
-## 💼 Professional Journey
+> *Transforming innovative ideas into impactful AI-powered solutions*
 
 <table>
 <tr>
 <td>
 
-### 🏢 Current Role
-**Application Developer** @ VPearl Solutions  
-`Jan 2025 - Present`
-- 🤖 Developing cutting-edge AI applications
-- 🔧 Building robust APIs with Flask, Sanic, Django, FastAPI
-- 🎨 Creating responsive UIs with React.js
+**🎓 Education**
+- B.E Computer Science & Engineering
+- Karpagam Academy of Higher Education, Coimbatore
+
+**💼 Current Role**
+- Application Developer @ VPearl Solutions Private Limited
+
+**📍 Location**
+- Chennai, Tamil Nadu, India
 
 </td>
 <td>
 
-### 🏢 Previous Experience
-**Software Engineer** @ Avasoft  
-`Dec 2023 - Dec 2024`
-- ☁️ Integrated Azure OpenAI & AWS Bedrock
-- 🏗️ Designed scalable database architectures
-- 🚀 Delivered innovative AI solutions
+**🎯 Expertise**
+- AI-powered Applications
+- Full-Stack Development  
+- Cloud Integration
+- API Development & System Integration
+
+**🏆 Leadership**
+- Senior NCC Cadet
+- Team Management & Collaboration
+
+**🌟 Interests**
+- 🌱 Gardening | 🎨 Paper Craft | 👨‍🍳 Cooking
 
 </td>
 </tr>
@@ -70,115 +52,188 @@ class SoftwareEngineer:
 
 <div align="center">
 
-### Languages & Frameworks
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-### Databases & Cloud
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### AI & ML Technologies
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+### Cloud & AI Platforms
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### Development Tools
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 Key Projects
+## 💼 Professional Journey
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🌐 **LangTech** | AI-powered translation platform with OCR capabilities | Python, OpenAI GPT, Google Gemini, JavaScript |
-| ☁️ **CloudGen** | Drag-and-drop cloud operations platform | React.js, Flask, AWS Bedrock, PostgreSQL |
-| 🤖 **Zeb Pulse** | AI chatbot for educational doubt resolution | Flask, Azure OpenAI, PostgreSQL |
+### 🚀 Current Position
+**Application Developer** | *VPearl Solutions Private Limited*  
+📅 January 2025 - Present | 📍 Chennai, India
 
 </div>
+
+<details>
+<summary>🔍 <b>Click to explore my experience timeline</b></summary>
+
+### 🎯 **VPearl Solutions Private Limited** - Application Developer
+*January 2025 - Present*
+
+- 🤖 Developing cutting-edge AI applications with innovative solutions
+- 🏗️ Building robust APIs using Flask, Sanic, Django, and FastAPI
+- 🎨 Creating responsive web interfaces with HTML, CSS, JavaScript, and React
+- 🗄️ Designing and implementing PostgreSQL database structures
+
+**Key Project: LangTech** 🌐
+- Advanced AI-powered translation platform
+- Multi-model integration (OpenAI GPT, Google Gemini, Llama)
+- OCR solutions for multiple languages including Vietnamese
+
+### 🔧 **Avasoft** - Software Engineer  
+*December 2023 - December 2024*
+
+- 🧠 Specialized in next-generation AI application development
+- ☁️ Integrated Azure OpenAI Service and AWS Bedrock
+- 🤝 Collaborated on database design and API development
+
+**Major Projects:**
+- **LFS**: AI-driven AWS Well-Architected Framework Review automation
+- **Zeb Pulse**: Educational chatbot with knowledge-based Q&A
+- **CloudGen**: Drag-and-drop cloud operations platform
+
+### 🤖 **ClaySys Technologies** - RPA Developer
+*July 2023 - October 2023*
+
+- 🔄 Created robotic automation workflows using UiPath and RPA Genie
+- 🧪 Performed testing and troubleshooting of automation processes
+- 📝 Documented automation procedures and configurations
+
+</details>
+
+---
+
+## 🎯 Areas of Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 **AI & Machine Learning**
+- Generative AI Integration
+- RAG (Retrieval-Augmented Generation)
+- Vector Databases
+- Prompt Engineering
+- OCR Solutions
+
+### 🌐 **Web Development**
+- Full-Stack Development
+- RESTful API Design
+- Responsive UI/UX
+- Cross-browser Compatibility
+
+</td>
+<td width="50%">
+
+### ☁️ **Cloud Technologies**
+- Azure OpenAI Service
+- AWS Bedrock
+- Google Cloud Platform
+- CI/CD Pipelines
+
+### 🔧 **Development Practices**
+- Automation Testing
+- Web Scraping
+- Database Optimization
+- System Integration
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=thirumurugan2001&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=thirumurugan2001&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=thirumurugan2001&show_icons=true" />
-  </picture>
-  
-  <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=thirumurugan2001&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=thirumurugan2001"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=thirumurugan2001" />
-  </picture>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thirumurugan2001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirumurugan2001&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
-
----
-
-## 🌟 Beyond Coding
 
 <div align="center">
 
-```ascii
-🌱 Gardening Enthusiast    📜 Paper Craft Artist    🍳 Cooking Explorer
-     Growing Ideas              Crafting Creativity        Mixing Flavors
-```
+[![GitHub Streak](https://streak-stats.demolab.com/?user=thirumurugan2001&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
-> *"These hobbies fuel my creativity and bring balance to my life, inspiring innovative solutions in my professional work."*
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![LangTech](https://github-readme-stats.vercel.app/api/pin/?username=thirumurugan2001&repo=langtech&theme=tokyonight)](https://github.com/thirumurugan2001/langtech)
+[![AI Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=thirumurugan2001&repo=ai-portfolio&theme=tokyonight)](https://github.com/thirumurugan2001/ai-portfolio)
+
+</div>
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thirumurugan-subramaniyan-a62351212/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thirumurugan2001)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/thirusubramaniy1)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/thirusubramaniy1)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thirumurugan_subramaniyan/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100025604958590)
 
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 💭 "Transforming innovative ideas into impactful AI solutions"
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/thirumurugan2001/count.svg)
-  
+
+## 💡 *"Passionate about transforming innovative ideas into impactful solutions through technology"*
+
+### 🌟 Always learning, always growing, always innovating! 🌟
+
+![Visitor Count](https://komarev.com/ghpvc/?username=thirumurugan2001&color=blueviolet&style=flat-square&label=Profile+Views)
+
 </div>
 
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/thirumurugan2001">Thirumurugan Subramaniyan</a></i>
+<sub>⭐ If you find my work interesting, please consider giving a star to my repositories!</sub>
 </div>
