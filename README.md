@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Thirumurugan Subramaniyan
+#  Thirumurugan Subramaniyan
 
 ### AI Research Engineer | Full-Stack Developer | Innovation Catalyst
 
