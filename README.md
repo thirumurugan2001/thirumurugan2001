@@ -171,13 +171,6 @@ Passionate AI Research Engineer with **3+ years of experience** building intelli
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thirumurugan2001&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=BA181B&title_color=BA181B&icon_color=BA181B&text_color=0B090A&bg_color=FFFFFF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirumurugan2001&layout=compact&langs_count=8&theme=radical&border_color=BA181B&title_color=BA181B&text_color=0B090A&bg_color=FFFFFF"/>
-
-</div>
 
 <div align="center">
 
