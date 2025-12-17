@@ -169,17 +169,6 @@ Passionate AI Research Engineer with **3+ years of experience** building intelli
 
 ---
 
-## 📊 GitHub Statistics
-
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thirumurugan2001&theme=radical&border=BA181B&ring=BA181B&fire=BA181B&currStreakLabel=0B090A&background=FFFFFF)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🎓 Education & Leadership
 
 **Bachelor of Engineering in Computer Science**  
